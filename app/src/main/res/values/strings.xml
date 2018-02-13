@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quick Scanner -QR</string>
+    <string name="scan">Click to scan</string>
+    <string name="gen">Click to generate</string>
+    <string name="text">Enter your text here</string>
+    <string name="genQ">Generate</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>
